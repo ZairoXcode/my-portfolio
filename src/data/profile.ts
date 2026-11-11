@@ -63,7 +63,7 @@ export const profileData: Profile = {
 
   email: 'mahatokalyan2@gmail.com',
 
-  phone: '',
+  phone: '9641072290',
 
   resumeUrl: '/Kalyan-Mahato-Resume.pdf'
 };
